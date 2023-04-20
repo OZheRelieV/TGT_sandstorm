@@ -1,1 +1,1 @@
-# Hackaton "TGT. Sandstorm" solution
+# Hackathon "TGT. Sandstorm" solution
