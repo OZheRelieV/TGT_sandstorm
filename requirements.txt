@@ -1,0 +1,10 @@
+Python==3.8.16
+
+joblib==1.1.1
+librosa==0.10.0.post2
+lightautoml==0.3.7.3
+numpy==1.23.5
+pandas==1.4.3
+scikit-learn==1.2.1
+scipy==1.10.0
+tsfresh==0.20.0
